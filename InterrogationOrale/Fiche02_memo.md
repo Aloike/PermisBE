@@ -57,7 +57,7 @@
   matériels.
 
 
-## Particularités des véhicules affectés au transport de personnes (catégories D1/D/D1E/DE)
+## Particularités des véhicules affectés au transport de personnes _(catégories D1/D/D1E/DE)_
 
 (Sans objet)
 

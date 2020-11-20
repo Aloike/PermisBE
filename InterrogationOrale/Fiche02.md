@@ -8,9 +8,9 @@
 
 ## Conduite à tenir
 
-## Particularités des véhicules affectés au transport de personnes (catégories D1/D/D1E/DE)
+## Particularités des véhicules affectés au transport de personnes _(catégories D1/D/D1E/DE)_
 
-[Sans objet]
+(Sans objet)
 
 
 <button><a href="Fiche02_memo.html">Voir mémo</a></button>
