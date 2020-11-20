@@ -6,8 +6,7 @@
 
 ## Vitesse
 
-**Énergie cinétique :** $$E_C = \frac{1}{2}mv^2$$ (masse x vitesse au carré).
-
++ **Énergie cinétique :** $$E_C = \frac{1}{2}mv^2$$ (masse x vitesse au carré).
 + Si vitesse x2 --> énergie x4 ; Si vitesse x3 -->énergie x9.
 + Distances de freinage et violence de choc dépendent de l'énergie cinétique.
 + 40 tonnes à 90km/h --> 1280 tonnes.
@@ -22,7 +21,7 @@
 + Varie en fonction du chargement (liquide, chargement haut ou mal réparti);
 + Risque de renversement.
 
-**Effet de ballant :**
++ **Effet de ballant :**
 	+ Dû à un chargement haut ou mobile (vrac, pendu, ...);
 	+ Ballant longitudinal ou latéral.
 

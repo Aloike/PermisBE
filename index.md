@@ -23,7 +23,7 @@ Questions de sécurité.
 + [Fiche 5 : Chargement, Surcharge](InterrogationOrale/Fiche05.md)
 + [Fiche 6 : Le dépassement](InterrogationOrale/Fiche06.md)
 + [Fiche 7 : Dynamique du véhicule](InterrogationOrale/Fiche07.md)
-+ Fiche 8
++ [Fiche 8 : Alcool, stupéfiants, médicaments](InterrogationOrale/Fiche08.md)
 + Fiche 9
 + Fiche 10
 + Fiche 11
