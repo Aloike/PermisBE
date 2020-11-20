@@ -1,6 +1,6 @@
 {% include lib/mathjax.html %}
 
-<button><a href="Fiche07.html">Retour fiche</a></button>
+<button><a href="Fiche08.html">Retour fiche</a></button>
 
 # Fiche 8 : Alcool, stupéfiants, médicaments
 
@@ -50,3 +50,4 @@
 + Demander conseil à son médecin ;
 + Lire la notice ;
 + Tenir compte des pictogrammes.
+
